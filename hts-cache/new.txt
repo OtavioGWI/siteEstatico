@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:45:56	335/335	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2009%20Jun%202020%2016:45:56%20GMT	http://localhost/wordpress	C:/Users/Ot%c3%a1vio/Documents/GitHub/paginaVisir/visir/localhost/wordpress.0.delayed	(from )
+13:45:56	296/296	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2009%20Jun%202020%2016:45:56%20GMT	http://localhost/robots.txt		(from )
+13:45:56	312/312	---M--	302	error ('Found')	text/html	date:Tue,%2009%20Jun%202020%2016:45:56%20GMT	http://localhost/wordpress/	C:/Users/Ot%c3%a1vio/Documents/GitHub/paginaVisir/visir/localhost/wordpress/index.html	(from )
